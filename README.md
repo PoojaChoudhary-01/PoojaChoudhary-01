@@ -63,3 +63,13 @@
   <a href="https://github.com/PoojaChoudhary-01"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
+---
+
+## ❤ Views & Followers
+
+![Profile views](https://komarev.com/ghpvc/?username=PoojaChoudhary-01)
+
+<a href="https://github.com/PoojaChoudhary-01?tab=followers">
+  <img src="https://img.shields.io/github/followers/PoojaChoudhary-01?label=Followers&style=social" />
+</a>
+
