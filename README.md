@@ -21,15 +21,6 @@
 
 ---
 
-## 📁 Projects
-
-- 🩺 [Personalized Healthcare Recommendation](https://github.com/PoojaChoudhary-01/personalized-healthcare-recommendation)  
-  *Built using ML + Streamlit*
-
-- 📊 PMKVY Internship Dashboard (Power BI)  
-  *Analyzed Excel data and created interactive visuals*
-
----
 
 ## 📊 GitHub Stats
 
