@@ -16,7 +16,7 @@
 ## 🧠 Skills I’m Using
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,excel,sklearn,pandas,sql,powerbi,github" />
+  <img src="https://skillicons.dev/icons?i=python,excel,sklearn,powerbi" />
 </p>
 
 ---
